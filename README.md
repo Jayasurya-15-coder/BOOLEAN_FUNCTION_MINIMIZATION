@@ -49,8 +49,9 @@ Developed by: RegisterNumber:*/
 ![Screenshot 2024-11-04 110649](https://github.com/user-attachments/assets/f4f66f2f-10ec-4dd2-a1f2-ac238da49926)
 
 # WAVE OUTPUT:
+![output](https://github.com/user-attachments/assets/5aac0731-3cd2-4261-8f35-8a179a3037d1)
 
-![Screenshot 2024-11-04 112544](https://github.com/user-attachments/assets/e90302e5-48d7-4eed-93df-e42f3692bd11)
+
 
 
 # RESULT:
